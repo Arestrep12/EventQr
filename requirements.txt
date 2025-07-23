@@ -1,0 +1,6 @@
+streamlit
+pandas
+pyzbar
+pillow
+openpyxl
+werkzeug
